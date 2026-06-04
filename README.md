@@ -1,4 +1,4 @@
-# 🖥️ IT Helpdesk AI — Hackathon Project
+# IT Helpdesk AI — Hackathon Project
 
 AI-powered IT Support Bot with smart ticket management, SLA tracking, knowledge base,
 voice-to-text, message scheduling, drag-to-reorder, smart replies, and PDF export.
@@ -9,10 +9,10 @@ Business Productivity · AI Workflow Platform · Intelligent Assistant System
 
 ---
 
-## ✅ VERIFIED — Build Status
-- Backend  : ✅ Starts (🎫 Ticket system enabled)
-- Frontend : ✅ Builds (zero errors, 498+ modules)
-- Database : ✅ nedb (pure JS, no setup)
+## VERIFIED — Build Status
+- Backend  : Starts (🎫 Ticket system enabled)
+- Frontend : Builds (zero errors, 498+ modules)
+- Database : nedb (pure JS, no setup)
 
 ---
 
@@ -145,6 +145,3 @@ smartchat-ai/
 
 ---
 
-## 🏆 Hackathon
-- **Category:** Support Chat Bot + Open Innovation
-- **Unique:** First messaging app with drag-to-reorder + IT ticket system + Tamil AI support
