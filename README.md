@@ -3,7 +3,7 @@
 AI-powered IT Support Bot with smart ticket management, SLA tracking, knowledge base,
 voice-to-text, message scheduling, drag-to-reorder, smart replies, and PDF export.
 
-**Category:** Support Chat Bot + Open Innovation
+
 **Build type covers:** AI Chatbot · Automation System · Smart AI Tool · Customer Support ·
 Business Productivity · AI Workflow Platform · Intelligent Assistant System
 
