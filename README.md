@@ -55,6 +55,25 @@ Go to **http://localhost:5173** in your browser.
 Add to `backend/.env` and restart backend.
 
 ---
+## Innovations
+
+This project introduces six innovations not found in existing helpdesk tools (ServiceNow, Zendesk, Freshdesk, Jira Service Management):
+
+1. **Drag-to-reorder messages** — Agents and users can drag sent messages to resequence them within five minutes; both sides see the corrected order, allowing quick in-chat message corrections.
+
+2. **Silent Tamil voice transcription** — One-tap silent transcription of voice messages into Tamil script, Tanglish, or English. Designed for open-office environments where audio cannot be played aloud; brings native Tamil support to helpdesk workflows.
+
+3. **Emotion-driven auto-escalation** — Real-time sentiment detection raises ticket priority automatically when a user expresses anger, desperation, or other high-risk emotions, ensuring critical issues receive immediate attention.
+
+4. **In-chat message scheduling** — Compose maintenance alerts or follow-ups in-chat and schedule them to send at a specified time; messages auto-send at the right time and can be canceled before delivery.
+
+5. **KB-first ticket creation** — The system checks the knowledge base before creating a ticket; if an instant fix exists, no ticket is created. Only unresolved issues become tickets, with AI auto-filling category and priority.
+
+6. **Auto to-do extraction from commitments** — Whenever someone makes a commitment in chat (e.g., "I'll fix it by 3 PM"), the system automatically extracts the action as a tracked to‑do with deadline and assignee.
+
+These features are core differentiators that improve agent efficiency, reduce noise, and surface critical issues faster.
+
+---
 
 ## 🚀 ALL FEATURES
 
